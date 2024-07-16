@@ -631,7 +631,7 @@ h6 {
 .works::before {
   content: "";
   position: absolute;
-  top: -37%;
+  top: -39%;
   -webkit-transform: translateY(50%);
       -ms-transform: translateY(50%);
           transform: translateY(50%);
